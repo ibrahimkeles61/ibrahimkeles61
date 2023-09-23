@@ -6,7 +6,7 @@ I recently graduated from software engineering. Im looking forward to a job oppo
 
 Check out my personal page for a little more 'visual' portfolio: https://ibrahimkeles.net
 
-Skills: REACT / REACT NATIVE / JS / HTML / CSS
+<!-- Skills: REACT / REACT NATIVE / JS / HTML / CSS -->
 
 - 🔭 I’m currently working on mobile app development with react native. 
 
