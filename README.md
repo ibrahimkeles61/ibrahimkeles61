@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is İbrahim
 #### I am a Front end developer.
 <!-- ![I am a Front end developer.](https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg) -->
-![good looking view with ai](Ekran görüntüsü 2023-09-23 234504.jpg)
+![good looking view with ai](https://github.com/ibrahimkeles61/ibrahimkeles61/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-09-23%20234504.jpg?raw=true)
 
 I recently graduated from software engineering. Im looking forward to a job opportunity that i can collaborate with others and improve myself.
 
